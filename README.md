@@ -2,7 +2,7 @@
 
 ## Soccer Game
 
-* You can select KICKER or Keeper.
+* You can select KICKER or KEEPER.
 
 * Download All.
 
