@@ -1,13 +1,13 @@
 # Project-Soccer
 
-##Soccer Game
+##S occer Game
 
-*You can select KICKER or Keeper.
+* You can select KICKER or Keeper.
 
-*Download All.
+* Download All.
 
-*And at Final.ipynb, you code **game_intro()** .
+* And at Final.ipynb, you code **game_intro()** .
 
 > game_intro()
 
-*Then You can play Game! 
+* Then You can play Game! 
