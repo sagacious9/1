@@ -1,6 +1,6 @@
 # Project-Soccer
 
-##S occer Game
+## Soccer Game
 
 * You can select KICKER or Keeper.
 
